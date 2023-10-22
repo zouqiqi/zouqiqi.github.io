@@ -12,12 +12,12 @@ main:
 
   - title: Structural and dynamic insights into supra- physiological activation and allosteric modulation of a muscarinic receptor
     authors: <strong>J.Xu#</strong>,Q.Wang#,H.Hübner,Y.Hu,X.Niu,S.Maeda,A.Inoue,H.Wang,Y.Tao,P. Gmeiner, Y. Du, C. Jin, &B. K. Kobilka
-    conference_short: NC
+    conference_short: Nat Commun
     conference: Nature communications. 2023, Jan 23
     #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
     page: https://www.nature.com/articles/s41467-022-35726-z
     #bibtex: ./assets/files/magnetoionic.txt
-    #image: ./assets/files/admi202270196-gra-0001-m.jpg
+    image: ./assets/files/pub2.jpg
     notes: Published
 
   - title: Conformational complexity and dynamics in a muscarinic receptor revealed by NMR spectroscopy
