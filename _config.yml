@@ -31,9 +31,9 @@ google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=lRUdD3UAAAAJ
 #researchgate: https://www.researchgate.net/profile/Song-Chen-60
 
 # Images 
-avatar: ./assets/img/avatar.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/bb.png
+#favicon: ./assets/img/favicon.png
+#favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
 # Footnote
