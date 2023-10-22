@@ -13,9 +13,6 @@ I am currently a Postdoc at [Stanford University](https://profiles.stanford.edu/
 - Structure-based drug development at adrenergic receptors
 - Identifying ligands at orphan GPCRs
 
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/publications.md %}
 
