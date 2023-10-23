@@ -1,7 +1,7 @@
 main:
 
   - title: Cold Spring Harbor Asia Meeting on Membrane protein: structure & function
-    #authors: Song Chen, Elmer Monteblanco, Rohit Pachat, Liza Herrera Diez, Dafiné Ravelosona
+    #authors: 
     #conference_short: JEMS
     conference: SuZhou, China
     #pdf: ./assets/files/JEMS2023_Song.pdf
@@ -16,3 +16,12 @@ main:
     #pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC_Conference_Torino_2023.pdf
     #web: https://bemagic-etn.eu/news/79-bemagic-conference-in-torino-2023-post-event
     image: ./assets/files/con2.jpg
+
+  - title: Cold Spring Harbor Asia Meeting on Membrane protein: structure & function
+    #authors: 
+    #conference_short: 
+    conference: SuZhou, China
+    #pdf: ./assets/files/JEMS2023_Song.pdf
+    #web: https://www.jems2023.es/
+    image: ./assets/files/con3.jpg
+    #notes: Accepted
