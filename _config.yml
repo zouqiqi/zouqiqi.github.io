@@ -13,7 +13,7 @@ address: 279 Campus Drive, Beckman Center, Stanford, CA 94305
 
 # Search Engine Optimization (SEO)
 keywords: jun xu, xu jun, xujun, junxu, 徐俊
-#canonical: https://minimal-light-theme.yliu.me/
+canonical: https://minimal-light-theme.yliu.me/
 #description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
 
 # The option is used to enable the Johns Hopkins template.
@@ -39,8 +39,8 @@ favicon_dark: ./assets/img/jun.jpg
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
-#footnote: Feel free to use my website's source code.
-#footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
