@@ -8,7 +8,7 @@ layout: homepage
 
 I am currently a Postdoc at [Stanford University](https://profiles.stanford.edu/jun-xu).
 
-## Major Research Accomplishments:
+## Major Research Accomplishments
 - Dissecting the role of structural dynamics in GPCR-mediated signaling
 - Structure-based drug development at adrenergic receptors
 - Identifying ligands at orphan GPCRs
