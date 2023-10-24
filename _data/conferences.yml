@@ -1,6 +1,6 @@
 main:
 
-  - title: Cold Spring Harbor Asia Meeting on Membrane protein: structure & function
+  - title: "Cold Spring Harbor Asia Meeting on Membrane protein: structure & function"
     #authors: 
     #conference_short: JEMS
     conference: SuZhou, China
@@ -17,7 +17,7 @@ main:
     #web: https://bemagic-etn.eu/news/79-bemagic-conference-in-torino-2023-post-event
     image: ./assets/files/con2.jpg
 
-  - title: Cold Spring Harbor Asia Meeting on Membrane protein: structure & function
+  - title: "Cold Spring Harbor Asia Meeting on Membrane protein: structure & function"
     #authors: 
     #conference_short: 
     conference: SuZhou, China
