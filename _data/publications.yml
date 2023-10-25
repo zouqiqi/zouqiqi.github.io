@@ -49,3 +49,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub5.jpg
     notes: Published
+
+  - title: Structure-based discovery of non-opioid analgesics acting through the α2A-adrenergic receptor
+    authors: E.A.Fink#,<strong>J.Xu#</strong>,H.Hübner#,J.M.Braz#,P.Seemann#,C.Avet,V.Craik,M.Schmidt, C. Webb, N. A. Tolmachova,Y. S. Moroz, X. Huang, C. DeLeon, C. Kalyanaraman, S.Gahbauer, M. P. Jacobson, B. L. Roth, J. J. Irwin, Y. Du, B. K. Shoichet,A. I. Basbaum, & P. Gmeiner 
+    conference_short: Science
+    conference: Science. 2022, Sep 30
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.science.org/doi/full/10.1126/science.abn7065
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub6.jpg
+    notes: Published
