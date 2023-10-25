@@ -20,7 +20,7 @@ main:
     image: ./assets/files/pub2.jpg
     notes: Published
 
-  - title: Conformational complexity and dynamics in a muscarinic receptor revealed by NMR spectroscopy
+  - title: Conformational complexity and dynamics in amuscarinic receptor revealed by NMRspectroscopy
     authors: <strong>J. Xu</strong>, Y. Hu, J. Kaindl, P. Risel, H. Hübner, S. Maeda, X. Niu, H. Li, P. Gmeiner, C. Jin, B. K. Kobilka
     conference_short: Mol Cell
     conference: Molecular Cell. 2019, July 11
