@@ -13,7 +13,7 @@ main:
   - title: Structural and dynamic insights into supra- physiological activation and allosteric modulation of a muscarinic receptor
     authors: <strong>J.Xu#</strong>,Q.Wang#,H.Hübner,Y.Hu,X.Niu,S.Maeda,A.Inoue,H.Wang,Y.Tao,P. Gmeiner, Y. Du, C. Jin, &B. K. Kobilka
     conference_short: Nat Commun
-    conference: Nature communications. 2023, Jan 23
+    conference: Nature Communications. 2023, Jan 23
     #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
     page: https://www.nature.com/articles/s41467-022-35726-z
     #bibtex: ./assets/files/magnetoionic.txt
@@ -68,4 +68,24 @@ main:
     page: https://www.nature.com/articles/s41467-022-30081-5
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub7.jpg
+    notes: Published
+
+  - title: Cryo-EM structure of the AVP-vasopressin receptor 2-Gs signaling complex
+    authors: L. Wang#, <strong>J.Xu#</strong>, S. Cao, D. Sun, H. Liu, Q. Lu, Z. Liu, Y. Du, & C. Zhang
+    conference_short: Cell Res. 
+    conference: Cell Research. 2021, Mar 4
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.nature.com/articles/s41422-021-00483-z
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub8.jpg
+    notes: Published
+
+  - title: Structural mechanism of the primary and the secondary coupling between GPCRs and the Gi/o Family
+    authors: H. R. Kim#, <strong>J.Xu#</strong>, S. Maeda, N. M. Duc, D. Ahn, Y. Du, & K. Y. Chung 
+    conference_short: Nat Commun 
+    conference: Nature Communications. 2020 June 22
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.nature.com/articles/s41467-020-16975-2
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub9.jpg
     notes: Published
