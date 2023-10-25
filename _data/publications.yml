@@ -7,7 +7,7 @@ main:
     #pdf: ./assets/files/multi.pdf
     #page: 
     #bibtex: ./assets/files/multi.txt
-    #image: ./assets/files/multi.jpg
+    #image: ./assets/files/pub1.jpg
     notes: In revision
 
   - title: Structural and dynamic insights into supra- physiological activation and allosteric modulation of a muscarinic receptor
@@ -30,14 +30,14 @@ main:
     image: ./assets/files/pub3.jpg
     notes: Published
 
-  - title: Conformational complexity and dynamics in a muscarinic receptor revealed by NMR spectroscopy
-    authors: <strong>J.Xu#</strong>,Q.Wang#,H.Hübner,Y.Hu,X.Niu,S.Maeda,A.Inoue,H.Wang,Y.Tao,P. Gmeiner, Y. Du, C. Jin, &B. K. Kobilka
-    conference_short: MC
-    conference: Molecular Cell. 2019, July 11
+  - title: Structural insights into ligand recognition, activation and signaling of the α2A- adrenergic receptor
+    authors: <strong>J.Xu#</strong>,S.Cao#,H.Hübner#,D.Weikert,G.Chen,Q.Lu,D.Yuan,P.Gmeiner,Z.Liu, & Y. Du
+    conference_short: SA
+    conference: Science Advances. 2022, March 4
     #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.nature.com/articles/s41467-022-35726-z
+    page: https://www.science.org/doi/full/10.1126/sciadv.abj5347
     #bibtex: ./assets/files/magnetoionic.txt
-    image: ./assets/files/pub3.jpg
+    image: ./assets/files/pub4.jpg
     notes: Published
 
 
