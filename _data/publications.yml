@@ -31,7 +31,7 @@ main:
     notes: Published
 
   - title: Conformational complexity and dynamics in a muscarinic receptor revealed by NMR spectroscopy
-    #authors: <strong>J. Xu</strong>
+    authors: <strong>J.Xu#</strong>,Q.Wang#,H.Hübner,Y.Hu,X.Niu,S.Maeda,A.Inoue,H.Wang,Y.Tao,P. Gmeiner, Y. Du, C. Jin, &B. K. Kobilka
     conference_short: Nat Commun
     conference: Nature communications. 2023, Jan 23
     #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
