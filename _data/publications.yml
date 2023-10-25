@@ -40,4 +40,12 @@ main:
     image: ./assets/files/pub4.jpg
     notes: Published
 
-
+  - title: Calcineurin-fusion facilitates cryo-EM structure determination of a family A GPCR
+    authors: <strong>J.Xu#</strong>,G. Chen#, H. Wang, S. Cao, J. Heng, X. Deupi, Y. Du, & B. K. Kobilka
+    conference_short: bioRxiv. 
+    conference: bioRxiv. 2022, March 28
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.biorxiv.org/content/10.1101/2022.03.27.485993v1.abstract
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub5.jpg
+    notes: Published
