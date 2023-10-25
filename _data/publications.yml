@@ -58,7 +58,7 @@ main:
     page: https://www.science.org/doi/full/10.1126/science.abn7065
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub6.jpg
-    notes: Highlighted by Nature Reviews Drug Discovery: “Virtual screening yields refined GPCR agonists”
+    notes: "Highlighted by Nature Reviews Drug Discovery: “Virtual screening yields refined GPCR agonists”"
 
   - title: Activation and allosteric regulation of the orphan GPR88-Gi signaling complex
     authors: G.Chen#,<strong>J.Xu#</strong>,A.Inoue#,M.F.Schmidt#,C.Bai,Q.Lu,P.Gmeiner,Z.Liu,&Y.Du
