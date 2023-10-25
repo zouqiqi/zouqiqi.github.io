@@ -39,3 +39,14 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub3.jpg
     notes: Published
+
+
+  - title: Conformational complexity and dynamics in a muscarinic receptor revealed by NMR spectroscopy
+    authors: <strong>J. Xu</strong>, Y. Hu, J. Kaindl, P. Risel, H. Hübner, S. Maeda, X. Niu, H. Li, P. Gmeiner, C. Jin, B. K. Kobilka
+    conference_short: MC
+    conference: Molecular Cell. 2019, July 11
+    #pdf: ./assets/files/SSRN-id4328224.pdf
+    page: https://www.sciencedirect.com/science/article/pii/S109727651930320X?via%3Dihub
+    #bibtex: ./assets/files/flexible.txt
+    image: ./assets/files/pub3.jpg
+    notes: Published
