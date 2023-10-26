@@ -89,3 +89,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub9.jpg
     notes: Published
+
+  - title: Micromorphology characters of maca(Lepidium meyenii)
+    authors: <strong>J.Xu</strong>, Y. Yu, K. Hou, H. Liu, L. Yu, W. Jin
+    conference_short: Plant Sci. 
+    conference: Plant Science Journal, 2014
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://plantscience.cn/cn/article/id/2581
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub10.jpg
+    notes: Published
