@@ -149,3 +149,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub15.jpg
     notes: Published
+
+  - title: Analysis of β2AR-Gs and β2AR-Gi complex formation by NMR spectroscopy
+    authors: X. Ma, Y. Hu, X. Niu, H. Li, J. Heng, <strong>J.Xu</strong>, X. Liu, C. Jin, B. K. Kobilka 
+    conference_short: PNAS 
+    conference: Proc Natl Acad Sci U S A. 2020 Aug 31
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.pnas.org/doi/10.1073/pnas.2009786117
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub16.jpg
+    notes: Published
