@@ -35,3 +35,21 @@ main:
     #web: https://www.jems2023.es/
     image: ./assets/files/con4.jpg
     #notes: Accepted
+
+  - title: GPCR Workshop 
+    #authors: 
+    #conference_short: 
+    conference: Hawaii, USA. Jan/2023
+    #pdf: ./assets/files/JEMS2023_Song.pdf
+    #web: https://www.jems2023.es/
+    image: ./assets/files/con5.jpg
+    notes: Poster presentation
+
+  - title: ThermoFisher Open Courses 
+    #authors: 
+    #conference_short: 
+    conference: Mar/2023
+    #pdf: ./assets/files/JEMS2023_Song.pdf
+    #web: https://www.jems2023.es/
+    image: ./assets/files/con6.jpg
+    notes: Oral presentation
