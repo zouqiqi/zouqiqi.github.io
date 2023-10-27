@@ -99,3 +99,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub10.jpg
     notes: Published
+
+  - title: Step-wise activation of a Family C GPCR
+    authors: K. K. Kumar, H. Wang, C. Habrian, N. R. Latorraca, <strong>J.Xu</strong>, E. S. O’Brien, C. Zhang,E. Montabana, A. Koehl, S. Marqusee, E. Y. Isacoff, B. K. Kobilka
+    conference_short: Nature 
+    conference: Nature
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: 
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub11.jpg
+    notes: In revision
