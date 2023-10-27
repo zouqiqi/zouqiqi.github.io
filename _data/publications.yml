@@ -109,3 +109,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub11.jpg
     notes: In revision
+  
+  - title: Molecular mechanism of muscarinic acetylcholine receptor M3 interaction with Gq
+    authors: D. Ham, A. Inoue, <strong>J.Xu</strong>, Y. Du, K. Y. Chuang
+    conference_short: Commun. Biol. 
+    conference: Communications Biology
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: 
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub12.jpg
+    notes: In revision
