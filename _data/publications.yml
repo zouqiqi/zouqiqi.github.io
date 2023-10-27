@@ -129,3 +129,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub13.jpg
     notes: Published
+
+  - title: Activation of the α2B adrenergic receptor by the sedative sympatholytic dexmedetomidine
+    authors: D. Yuan, Z. Liu, J. Kaindl, S. Maeda, J. Zhao, X. Sun, <strong>J.Xu</strong>, P. Gmeiner, H. Wang, B.K. Kobilka 
+    conference_short: Nat. Chem. Biol. 
+    conference: Nature Chemical Biology. 2020 March 09
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.nature.com/articles/s41589-020-0492-2
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub14.jpg
+    notes: Published
