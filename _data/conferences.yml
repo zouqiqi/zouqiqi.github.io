@@ -3,7 +3,7 @@ main:
   - title: "Cold Spring Harbor Asia Meeting on Membrane protein: structure & function"
     #authors: 
     #conference_short: JEMS
-    conference: SuZhou, China
+    conference: SuZhou, China. May/2015
     #pdf: ./assets/files/JEMS2023_Song.pdf
     #web: https://www.jems2023.es/
     image: ./assets/files/con1.jpg
@@ -11,17 +11,27 @@ main:
 
   - title: International Conference on Structural Biology
     #conference_short: BeMAGIC
-    conference: Beijing, China
+    conference: Beijing, China. April/2017
     #abstract: The BeMAGIC conference in Torino, entitled “Beyond Magnetoelectric Materials”, was successfully organized by the network ESRs (Early Stage Researchers). This event took place on 12-15 June 2023 at the Starhotel Majestic, Torino, Italy. The programme included 15 top-class experts in the magnetoelectric field, who delivered lectures on the following topics&#58; multiferroics, surface charging, magnetoionics and applications in healthcare, energy efficiency and cybersecurity.
     #pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC_Conference_Torino_2023.pdf
     #web: https://bemagic-etn.eu/news/79-bemagic-conference-in-torino-2023-post-event
     image: ./assets/files/con2.jpg
+    notes: Poster presentation
 
   - title: "Cold Spring Harbor Asia Meeting on Membrane protein: structure & function"
     #authors: 
     #conference_short: 
-    conference: SuZhou, China
+    conference: SuZhou, China. May/2017
     #pdf: ./assets/files/JEMS2023_Song.pdf
     #web: https://www.jems2023.es/
     image: ./assets/files/con3.jpg
+    notes: Poster presentation
+
+  - title: GPCR Workshop 
+    #authors: 
+    #conference_short: 
+    conference: Hawaii, USA. Dec/2017
+    #pdf: ./assets/files/JEMS2023_Song.pdf
+    #web: https://www.jems2023.es/
+    image: ./assets/files/con4.jpg
     #notes: Accepted
