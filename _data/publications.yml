@@ -139,3 +139,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub14.jpg
     notes: Published
+
+  - title: Structure and selectivity engineering of the M1 muscarinic receptor toxin complex
+    authors: S. Maeda, <strong>J.Xu</strong>, F. M. N. Kadji, M. J. Clark, J. Zhao, N. Tsutsumi, R. K. Sunahara, A. Inoue, K. C. Garcia, B. K. Kobilka 
+    conference_short: Science 
+    conference: Science. 2020 July 10
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.science.org/doi/10.1126/science.aax2517
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub15.jpg
+    notes: Published
