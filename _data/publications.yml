@@ -159,3 +159,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub16.jpg
     notes: Published
+
+  - title: Structure-based discovery of selective positive allosteric modulators of antagonists for the M2 muscarinic acetylcholine receptor
+    authors: M. Korczynska, M. J. Clark, C. Valant, <strong>J.Xu</strong>, E. V. Moo, S. Albold, D. R. Weiss, H. Torosyan, W. Huang, A. C. Kruse, B. R. Lyda, L. T. May, J. Baltos, P. M. Sexton, B. K. Kobilka, A. Christopoulos, B. K. Shoichet, and R. K. Sunahara 
+    conference_short: PNAS 
+    conference: Proc Natl Acad Sci U S A. 2018 Feb 16
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.pnas.org/doi/10.1073/pnas.1718037115
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub16.jpg
+    notes: Published
