@@ -119,3 +119,13 @@ main:
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/pub12.jpg
     notes: In revision
+      
+  - title: Gαs slow conformational transition upon GTP binding and a novel Gαs regulator
+    authors: D. Ahn, D. Provasi, N. M. Duc, <strong>J.Xu</strong>, L. S.-Estrada, A.Spasic, M. W.Yun, J. Kang, D. Gim, J. Lee, Y. Du, M. Filizola, K. Y. Chung 
+    conference_short: iScience 
+    conference: iScience. 2023 April
+    #pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+    page: https://www.sciencedirect.com/science/article/pii/S2589004223006806
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/files/pub13.jpg
+    notes: Published
