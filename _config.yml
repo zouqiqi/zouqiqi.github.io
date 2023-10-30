@@ -37,8 +37,8 @@ favicon_dark: ./assets/img/jun.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
-footnote: Feel free to use my website's source code.hh
+enable_footnote: True
+footnote: Feel free to use my website's source code.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Use this project as a remote theme for GitHub Pages
