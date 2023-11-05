@@ -1,6 +1,6 @@
 <h1 id="conferences"></h1>
 
-<h2 style="margin: 65px 0px 20px;">Conferences & Events<temp style="font-size:15px;"></temp></h2>
+<h2 style="margin: 65px 0px 10px;">Conferences & Events<temp style="font-size:15px;"></temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
